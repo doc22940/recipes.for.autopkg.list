@@ -71,6 +71,10 @@
     </dict>
     <dict>
       <key>Processor</key>
+      <string>EndOfCheckPhase</string>
+    </dict>
+    <dict>
+      <key>Processor</key>
       <string>PathDeleter</string>
       <key>Arguments</key>
       <dict>
